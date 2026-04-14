@@ -7,11 +7,9 @@
 ![React](https://img.shields.io/badge/React-18+-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-Vector%20DB-FF6B35?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 **Chat with any GitHub repository using AI. Understand codebases instantly.**
 
-[Demo](#demo) · [Getting Started](#getting-started) · [Architecture](#architecture) · [Features](#features) · [Contributing](#contributing)
 
 </div>
 
